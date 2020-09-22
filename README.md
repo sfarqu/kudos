@@ -1,2 +1,2 @@
 # kudos
-A tiny congratulatory slack bot
+A tiny congratulatory Slack bot
